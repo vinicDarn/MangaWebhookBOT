@@ -1,2 +1,8 @@
 # MangaWebhookBOT
-Bot using webhhok for get news updates about mangás
+
+# Install
+Windows:
+> pip install -r requirements.txt
+
+Linux/Termux:
+> pip3 install -r requirements.txt
