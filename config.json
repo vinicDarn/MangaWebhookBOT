@@ -1,0 +1,5 @@
+{
+	"webhook": "https://discord.com/api/webhooks/1081656678107332738/wAMHakSD2h-RKRe_GVYckR2A1hT_gO5YP21QH0il4JnaYFR8XntAZdZB2K_kGmWdJldX",
+	"delay": 3600, 
+	"mensagens": ["Novo Captulo de {} saindo! Capitulo: {}", "Capitulos de {} Com cheirinho de Novo! Capitulo: {}"]
+}
