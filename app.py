@@ -57,5 +57,5 @@ while True:
         else:
             print("Error: message dont as been sended")
 
-    print("Esperando delay antes de verificar novamente")
+    print("Waiting the delay")
     time.sleep(delay)
